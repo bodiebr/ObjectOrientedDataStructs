@@ -1,6 +1,6 @@
 # ObjectOrientedDataStructs
 All course material from 'Object-Oriented Data Structures in C++' from University of Illinois at Urbana-Champaign
-
+All assignment descriptions are labeled under assignment.description.pdf or assignment.description.txt
 
 
 
