@@ -4,5 +4,6 @@ All assignment descriptions are labeled under assignment.description.pdf or assi
 
 
 
-(Course taken on Coursera.org with final grade of 98%
-Certificate Received)
+
+(Course taken on Coursera.org with final grade of 98% and completion certificate received)
+https://www.coursera.org/learn/cs-fundamentals-1/home/welcome
